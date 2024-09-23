@@ -11,7 +11,7 @@ This project is a simple React application that allows users to encrypt and decr
 ## Technologies Used
 
 - **Frontend**: React, Bootstrap, FontAwesome
-- **Backend**: Node.js (Express)
+- **Backend**: Python(Flask)
 
 ## Getting Started
 
