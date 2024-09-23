@@ -38,12 +38,13 @@ This project is a simple React application that allows users to encrypt and decr
 
     ```bash
     cd backend
-    
+    bash```
     ```bash
     pip install -r requirements.txt
-    
+    bash```
     ```bash
     python app.py
+    bash```
 
 4. Navigate to Frontend
 
