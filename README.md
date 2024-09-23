@@ -30,17 +30,24 @@ This project is a simple React application that allows users to encrypt and decr
    git clone https://github.com/your-username/file-encryption-decryption-app.git
 
 2. Navigate to the project directory:
-
+    
+    ```bash
     cd file-encryption-decryption-app
 
 3. Navigate to Backend
 
+    ```bash
     cd backend
+    
+    ```bash
     pip install -r requirements.txt
+    
+    ```bash
     python app.py
 
 4. Navigate to Frontend
 
+    ```bash
     cd frontend
     npm install
     npm run dev
