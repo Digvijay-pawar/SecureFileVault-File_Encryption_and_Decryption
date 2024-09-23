@@ -12,14 +12,12 @@ This project is a simple React application that allows users to encrypt and decr
 
 - **Frontend**: React, Bootstrap, FontAwesome
 - **Backend**: Node.js (Express)
-- **Database**: MongoDB (if applicable for storage)
 
 ## Getting Started
 
 ### Prerequisites
 
 - Node.js and npm installed on your machine.
-- MongoDB (if you're using a database).
 - A running backend server that handles encryption and decryption requests.
 
 ### Installation
